@@ -1,4 +1,4 @@
-# 🌐 My Flower-market-A02-Assignmen
+# 🌐 My Flower-market-A02-Assignment
 
 This is a simple **frontend web project** built using HTML and CSS.  
 It includes a basic responsive homepage (`index.html`) styled using an external CSS file (`style.css`) and uses image assets stored in the `assets/` folder.
